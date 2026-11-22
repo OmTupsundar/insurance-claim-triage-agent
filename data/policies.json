@@ -1,0 +1,21 @@
+{
+  "POL-MOT-101": {
+    "policy_holder": "Rohan Kulkarni",
+    "type": "Motor Comprehensive",
+    "vehicle": "Hyundai i20 (MH-28-AB-4321)",
+    "sum_insured_inr": 650000,
+    "deductible_inr": 5000,
+    "covered_incidents": ["collision", "theft", "fire", "flood_waterlogging"],
+    "exclusions": ["drunk_driving", "commercial_use_personal_policy", "wear_and_tear"],
+    "fast_track_limit_inr": 50000
+  },
+  "POL-HLT-202": {
+    "policy_holder": "Sneha Deshmukh",
+    "type": "Family Health Floater",
+    "sum_insured_inr": 1000000,
+    "deductible_inr": 10000,
+    "covered_incidents": ["hospitalization", "daycare_surgery", "ambulance", "diagnostics"],
+    "exclusions": ["cosmetic_surgery", "pre_existing_waiting_period", "self_harm"],
+    "fast_track_limit_inr": 75000
+  }
+}
